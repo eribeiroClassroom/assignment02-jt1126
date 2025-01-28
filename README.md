@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/b0B_Pv66)
 # os161_base_code
 
-Make a small change in the kernel. Re-build and boot the kernel so it shows the change that has been made. To make the change, search for the string "Joseph" and replace it with your name. 
+Make a small change in the kernel. Re-build and boot the kernel so it shows the change that has been made. To make the change, search for the string "Put-your-group-name-here" and replace it with your name. 
 
 See notes on building and running OS/161: 
 - https://github.com/eraldoribeiro/UsingCSE4001_OS161
